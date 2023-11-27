@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on 
 My AI SaaS side project </br>
 
-👯 **I’m looking to collaborate on:**  <br>AI Full-stack projects<br><br>🌱 **I’m currently learning:**  <br>Next.js, AWS Services and AI app development.<br><br>⚡ **What I love:**  <br>I love creating content on X / Twitter & learning new technologies.
+👯 **I’m looking to collaborate on:**  <br>AI Full-stack projects<br><br>🌱 **I’m currently learning:**  <br>Next.js, AWS and AI app development.<br><br>⚡ **What I love:**  <br>I love creating content on X / Twitter & learning new technologies.
 
 ## 🌐 Socials
 
